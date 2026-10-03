@@ -1,34 +1,43 @@
 # hey, i'm Omka 💀
 
-self-hosted stuff, discord bots, game tools & linux things.
+self-hosted tools, discord bots, game stuff & linux handheld ports.
 
 i build things that run on your own machine, don't phone home, and try not to be complete garbage.
 
 ---
 
-### 🔥 what i work on
+### 🔥 main projects
 
 | Project | What it is | Stack |
 |---------|------------|-------|
 | **[Doppler](https://github.com/omka-1337/doppler)** | Self-hosted Discord bot that ships empty. Features are plugins installed from GitHub. Plugin code never sees your API keys. | Python · Docker · Web Dashboard |
 | **[Possum](https://github.com/omka-1337/possum)** | Self-hosted panel for game servers (Minecraft → CS 1.6) running in Docker. Panel + agent architecture. | Python · Go · React · Docker |
 | **[Hermit](https://github.com/omka-1337/hermit)** | BepInEx mod manager made for Linux & Steam Deck. Profiles, Thunderstore, controller layout. | Go · React · Wails |
-| **[Assistant](https://github.com/omka-1337/Assistant-DiscordBot)** | Discord bot that answers questions about your server rules using AI. Supports Ukrainian & English. | Python · Discord.py |
 
-Also messing with PortMaster ports, libretro frontends and other handheld/linux gaming stuff.
+---
+
+### 🎮 PortMaster ports
+
+I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKNIX.
+
+| Port | Engine | Notes |
+|------|--------|-------|
+| **[Fear & Hunger](https://github.com/omka-1337/FearAndHunger-PortMaster)** | NW.js (RPG Maker MV) | Playable on RG40XX. Needs ROCKNIX (DRM/KMS). Audio optimization + performance tweaks included. |
+| **[BLACK SOULS](https://github.com/omka-1337/BlackSouls-PortMaster)** | mkxp-z (RPG Maker VX Ace) | Full support for translations via `patches/`. Tested with Russian translations. |
+| **[BLACK SOULS II](https://github.com/omka-1337/BlackSouls2-PortMaster)** | mkxp-z (RPG Maker VX Ace) | Same translation system. Handles both reduced Steam build and full data. |
 
 ---
 
 ### 🛠 tech i like
 
-`Python` `Go` `TypeScript` `React` `Docker` `FastAPI` `Wails` `discord.py` `Linux` `Steam Deck`
+`Python` `Go` `TypeScript` `React` `Docker` `FastAPI` `Wails` `discord.py` `Linux` `Steam Deck` `PortMaster` `Anbernic`
 
 ---
 
 ### 📌 currently
 
-- building and refining **Doppler** & **Possum**
-- making tools that are actually usable on Steam Deck
+- refining **Doppler** & **Possum**
+- making more ports for RG40XX / PortMaster
 - keeping things self-hosted and relatively sane
 
 ---
