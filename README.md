@@ -1,4 +1,4 @@
-# hey, i'm Omka 💀
+# hey, i'm Omka
 
 self-hosted tools, discord bots, game stuff & linux handheld ports.
 
@@ -42,4 +42,4 @@ I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKN
 
 ---
 
-*I'm dead bruh 💀*
+*I use Arch btw*
