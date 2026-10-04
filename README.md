@@ -1,12 +1,24 @@
 # hey, i'm Omka
 
-self-hosted tools, discord bots, game stuff & linux handheld ports.
+self-hosted tools, game engines, discord bots & linux handheld ports.
 
 i build things that run on your own machine, don't phone home, and try not to be complete garbage.
 
 ---
 
-### 🔥 main projects
+### 🧠 HPL1-Fledged
+
+**[HPL1-Fledged](https://github.com/omka-1337/HPL1-Fledged)** — bringing the original HPL1 engine (Penumbra: Overture) back to life.
+
+The upstream work by zenmumbler got it compiling again after years of bitrot. This fork finishes what was left incomplete: a proper multi-pass renderer with lighting, shadows, normal mapping, sky and post-processing, plus **OpenGL ES 3.0** support so it runs on ARM Linux and handhelds — not just desktops.
+
+Built for real hardware. Currently powering the Penumbra: Overture PortMaster port.
+
+`C++` · `OpenGL` / `GLES` · `CMake`
+
+---
+
+### 🔥 other projects
 
 | Project | What it is | Stack |
 |---------|------------|-------|
@@ -30,14 +42,15 @@ I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKN
 
 ### 🛠 tech i like
 
-`Python` `Go` `TypeScript` `React` `Docker` `FastAPI` `Wails` `discord.py` `Linux` `Steam Deck` `PortMaster` `Anbernic`
+`C++` `OpenGL` `GLES` `Python` `Go` `TypeScript` `React` `Docker` `Linux` `Steam Deck` `PortMaster` `Anbernic`
 
 ---
 
 ### 📌 currently
 
+- deep in **HPL1-Fledged** — getting Penumbra running properly on handhelds
 - refining **Doppler** & **Possum**
-- making more ports for RG40XX / PortMaster
+- more PortMaster ports for the RG40XX
 - keeping things self-hosted and relatively sane
 
 ---
