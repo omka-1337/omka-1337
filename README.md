@@ -35,6 +35,7 @@ I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKN
 | Port | Engine | Notes |
 |------|--------|-------|
 | **[Fear & Hunger](https://github.com/omka-1337/FearAndHunger-PortMaster)** | NW.js (RPG Maker MV) | Playable on RG40XX. Needs ROCKNIX (DRM/KMS). Audio optimization + performance tweaks included. |
+| **[Penumbra: Overture](https://github.com/omka-1337/PenumbraOverture-PortMaster)** | HPL1-Fledged | To create this port, I had to modify the Frictional Games engine and adapt it for ARM and GLES. Thanks to zenmumbler for his work on HPL1-Rehatched, on which HPL1-Fledged is based. |
 | **[BLACK SOULS](https://github.com/omka-1337/BlackSouls-PortMaster)** | mkxp-z (RPG Maker VX Ace) | Full support for translations via `patches/`. Tested with Russian translations. |
 | **[BLACK SOULS II](https://github.com/omka-1337/BlackSouls2-PortMaster)** | mkxp-z (RPG Maker VX Ace) | Same translation system. Handles both reduced Steam build and full data. |
 
