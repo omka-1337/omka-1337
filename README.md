@@ -4,9 +4,17 @@ self-hosted tools, game engines, discord bots & linux handheld ports.
 
 i build things that run on your own machine, don't phone home, and try not to be complete garbage.
 
-### Far Far Away Engine
+- [Engines](#engines)
+  - [Far Far Away](#far-far-away-engine)
+  - [HPL1-Fledged](#hpl1-fledged)
+- [Onher projects](#other-projects)
+- [PortMaster ports](#portmaster-ports)
 
----
+# Engines
+
+I am working on adapting/reimplementing drivers for the ARM architecture
+
+## Far Far Away Engine
 
 **[Far Far Away Engine](https://github.com/omka-1337/FFA)** - the Rebirth of Unreal Engine 2.
 
@@ -17,9 +25,7 @@ The tools for unpacking UE2 packages are ready. Right now, I'm working on the en
 `C++` · `OpenGL` / `GLES` · `CMake`
 
 
-### HPL1-Fledged
-
----
+## HPL1-Fledged
 
 **[HPL1-Fledged](https://github.com/omka-1337/HPL1-Fledged)** — bringing the original HPL1 engine (Penumbra: Overture) back to life.
 
@@ -31,7 +37,7 @@ Built for real hardware. Currently powering the Penumbra: Overture PortMaster po
 
 ---
 
-### 🔥 other projects
+### Other projects
 
 | Project | What it is | Stack |
 |---------|------------|-------|
@@ -41,7 +47,7 @@ Built for real hardware. Currently powering the Penumbra: Overture PortMaster po
 
 ---
 
-### 🎮 PortMaster ports
+### PortMaster ports
 
 I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKNIX.
 
