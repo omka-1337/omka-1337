@@ -6,7 +6,19 @@ i build things that run on your own machine, don't phone home, and try not to be
 
 ---
 
-### 🧠 HPL1-Fledged
+### Far Far Away Engine
+
+**[Far Far Away Engine](https://github.com/omka-1337/FFA)** - the Rebirth of Unreal Engine 2.
+
+The goal of the project is to create a native engine for ARM that can run games built with Unreal Engine 2. Simply put, it’s a reverse-engineering project of Unreal Engine 2. I was inspired to do this by my desire to play Shrek 2, a game from my childhood, on my RG40XX H. I never found a way to run the game at a decent FPS, so I said "screw it" and decided to build it myself.
+
+The tools for unpacking UE2 packages are ready. Right now, I'm working on the engine itself and recreating its functionality based on Shrek 2.
+
+`C++` · `OpenGL` / `GLES` · `CMake`
+
+---
+
+### HPL1-Fledged
 
 **[HPL1-Fledged](https://github.com/omka-1337/HPL1-Fledged)** — bringing the original HPL1 engine (Penumbra: Overture) back to life.
 
