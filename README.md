@@ -16,7 +16,6 @@ The tools for unpacking UE2 packages are ready. Right now, I'm working on the en
 
 `C++` · `OpenGL` / `GLES` · `CMake`
 
----
 
 ### HPL1-Fledged
 
