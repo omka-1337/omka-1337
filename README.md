@@ -21,8 +21,6 @@ The tools for unpacking UE2 packages are ready. Right now, I'm working on the en
 
 ---
 
-### HPL1-Fledged
-
 **[HPL1-Fledged](https://github.com/omka-1337/HPL1-Fledged)** — bringing the original HPL1 engine (Penumbra: Overture) back to life.
 
 The upstream work by zenmumbler got it compiling again after years of bitrot. This fork finishes what was left incomplete: a proper multi-pass renderer with lighting, shadows, normal mapping, sky and post-processing, plus **OpenGL ES 3.0** support so it runs on ARM Linux and handhelds — not just desktops.
