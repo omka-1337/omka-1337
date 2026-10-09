@@ -27,7 +27,9 @@ I am working on adapting/reimplementing drivers for the ARM architecture
 </div>
 <br>
 The goal of the project is to create a native engine for ARM that can run games built with Unreal Engine 2. Simply put, it’s a reverse-engineering project of Unreal Engine 2. I was inspired to do this by my desire to play Shrek 2, a game from my childhood, on my RG40XX H. I never found a way to run the game at a decent FPS, so I said "screw it" and decided to build it myself.
-<br>
+
+&nbsp;
+
 The tools for unpacking UE2 packages are ready. Right now, I'm working on the engine itself and recreating its functionality based on Shrek 2.
 
 `C++` · `OpenGL` / `GLES` · `CMake`
@@ -44,7 +46,9 @@ The tools for unpacking UE2 packages are ready. Right now, I'm working on the en
 </div>
 <br>
 The upstream work by zenmumbler got it compiling again after years of bitrot. This fork finishes what was left incomplete: a proper multi-pass renderer with lighting, shadows, normal mapping, sky and post-processing, plus **OpenGL ES 3.0** support so it runs on ARM Linux and handhelds — not just desktops.
-<br>
+
+&nbsp;
+
 Built for real hardware. Currently powering the Penumbra: Overture PortMaster port.
 
 `C++` · `OpenGL` / `GLES` · `CMake`
