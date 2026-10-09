@@ -18,6 +18,10 @@ I am working on adapting/reimplementing drivers for the ARM architecture
 
 ## Far Far Away Engine
 
+<p align="center">
+  <img src="media/ffa-banner.png" alt="Project banner" width="100%">
+</p>
+
 **[Far Far Away Engine](https://github.com/omka-1337/FFA)** - the Rebirth of Unreal Engine 2.
 
 The goal of the project is to create a native engine for ARM that can run games built with Unreal Engine 2. Simply put, it’s a reverse-engineering project of Unreal Engine 2. I was inspired to do this by my desire to play Shrek 2, a game from my childhood, on my RG40XX H. I never found a way to run the game at a decent FPS, so I said "screw it" and decided to build it myself.
