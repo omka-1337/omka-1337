@@ -4,6 +4,8 @@ self-hosted tools, game engines, discord bots & linux handheld ports.
 
 i build things that run on your own machine, don't phone home, and try not to be complete garbage.
 
+### Contents
+
 - [Engines](#engines)
   - [Far Far Away](#far-far-away-engine)
   - [HPL1-Fledged](#hpl1-fledged)
