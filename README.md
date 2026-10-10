@@ -69,12 +69,55 @@ Built for real hardware. Currently powering the Penumbra: Overture PortMaster po
 
 I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKNIX.
 
-| Port | Engine | Notes |
-|------|--------|-------|
-| **[Fear & Hunger](https://github.com/omka-1337/FearAndHunger-PortMaster)** | NW.js (RPG Maker MV) | Playable on RG40XX. Needs ROCKNIX (DRM/KMS). Audio optimization + performance tweaks included. |
-| **[Penumbra: Overture](https://github.com/omka-1337/PenumbraOverture-PortMaster)** | HPL1-Fledged | To create this port, I had to modify the Frictional Games engine and adapt it for ARM and GLES. Thanks to zenmumbler for his work on HPL1-Rehatched, on which HPL1-Fledged is based. |
-| **[BLACK SOULS](https://github.com/omka-1337/BlackSouls-PortMaster)** | mkxp-z (RPG Maker VX Ace) | Full support for translations via `patches/`. Tested with Russian translations. |
-| **[BLACK SOULS II](https://github.com/omka-1337/BlackSouls2-PortMaster)** | mkxp-z (RPG Maker VX Ace) | Same translation system. Handles both reduced Steam build and full data. |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Port</th>
+      <th align="left">Engine</th>
+      <th align="left">Platform</th>
+      <th align="left">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Fear & Hunger -->
+    <tr>
+      <td><a href="https://github.com/omka-1337/FearAndHunger-PortMaster">Fear & Hunger</a></td>
+      <td>NW.js (RPG Maker MV)</td>
+      <td>
+        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+      </td>
+      <td>Playable on RG40XX. Needs ROCKNIX (DRM/KMS). Audio optimization + performance tweaks included.</td>
+    </tr>
+    <!-- Penumbra: Overture -->
+    <tr>
+      <td><a href="https://github.com/omka-1337/PenumbraOverture-PortMaster">Penumbra: Overture</a></td>
+      <td>HPL1-Fledged</td>
+      <td>
+        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+      </td>
+      <td>To create this port, I had to modify the Frictional Games engine and adapt it for ARM and GLES. Thanks to zenmumbler for his work on HPL1-Rehatched, on which HPL1-Fledged is based.</td>
+    </tr>
+    <!-- BLACK SOULS -->
+    <tr>
+      <td><a href="https://github.com/omka-1337/BlackSouls-PortMaster">BLACK SOULS</a></td>
+      <td>mkxp-z (RPG Maker VX Ace)</td>
+      <td>
+        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+      </td>
+      <td>Full support for translations via <code>patches/</code>. Tested with Russian translations.</td>
+    </tr>
+    <!-- BLACK SOULS II -->
+    <tr>
+      <td><a href="https://github.com/omka-1337/BlackSouls2-PortMaster">BLACK SOULS II</a></td>
+      <td>mkxp-z (RPG Maker VX Ace)</td>
+      <td>
+        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+      </td>
+      <td>Same translation system. Handles both reduced Steam build and full data.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
