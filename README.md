@@ -84,7 +84,9 @@ I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKN
       <td><a href="https://github.com/omka-1337/FearAndHunger-PortMaster">Fear & Hunger</a></td>
       <td>NW.js (RPG Maker MV)</td>
       <td>
-        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+        <a href="https://portmaster.games">
+          <img src="https://avatars.githubusercontent.com/u/96267164?s=36&v=4" width="18" height="18" alt="PortMaster" valign="middle">
+        </a>
       </td>
       <td>Playable on RG40XX. Needs ROCKNIX (DRM/KMS). Audio optimization + performance tweaks included.</td>
     </tr>
@@ -93,7 +95,9 @@ I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKN
       <td><a href="https://github.com/omka-1337/PenumbraOverture-PortMaster">Penumbra: Overture</a></td>
       <td>HPL1-Fledged</td>
       <td>
-        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+        <a href="https://portmaster.games">
+          <img src="https://avatars.githubusercontent.com/u/96267164?s=36&v=4" width="18" height="18" alt="PortMaster" valign="middle">
+        </a>
       </td>
       <td>To create this port, I had to modify the Frictional Games engine and adapt it for ARM and GLES. Thanks to zenmumbler for his work on HPL1-Rehatched, on which HPL1-Fledged is based.</td>
     </tr>
@@ -102,7 +106,9 @@ I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKN
       <td><a href="https://github.com/omka-1337/BlackSouls-PortMaster">BLACK SOULS</a></td>
       <td>mkxp-z (RPG Maker VX Ace)</td>
       <td>
-        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+        <a href="https://portmaster.games">
+          <img src="https://avatars.githubusercontent.com/u/96267164?s=36&v=4" width="18" height="18" alt="PortMaster" valign="middle">
+        </a>
       </td>
       <td>Full support for translations via <code>patches/</code>. Tested with Russian translations.</td>
     </tr>
@@ -111,7 +117,9 @@ I own an **Anbernic RG40XX H** and actively work on ports for PortMaster / ROCKN
       <td><a href="https://github.com/omka-1337/BlackSouls2-PortMaster">BLACK SOULS II</a></td>
       <td>mkxp-z (RPG Maker VX Ace)</td>
       <td>
-        <img src="https://api.iconify.design/logos:linux-tux.svg" width="18" height="18" alt="Linux" valign="middle">
+        <a href="https://portmaster.games">
+          <img src="https://avatars.githubusercontent.com/u/96267164?s=36&v=4" width="18" height="18" alt="PortMaster" valign="middle">
+        </a>
       </td>
       <td>Same translation system. Handles both reduced Steam build and full data.</td>
     </tr>
